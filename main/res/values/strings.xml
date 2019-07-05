@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Main work</string>
+    <string name="user_name">user_name</string>
+    <string name="pass_word">pass_word</string>
+    <string name="signe_in">signe_in</string>
+    <string name="cancel">cancel</string>
+    <string name="welcome">Welcome</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="Waiting">waiting</string>
+    <string name="Light">Light</string>
+    <string name="Humidity">Humidity</string>
+    <string name="Temperature">Temperature</string>
+
+</resources>
